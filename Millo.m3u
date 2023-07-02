@@ -8,10 +8,8 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1, Telefe Deportes
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES", TyC SPORT
+#EXTINF:-1, TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1,#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
-https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 #EXTINF:-1, America HD
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 #EXTINF:-1, TV Publica
@@ -22,8 +20,6 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1, Canal 13
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1, Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1, Telemax
@@ -1780,4 +1776,24 @@ https://stream.ads.ottera.tv/cl/230702cigeo6gv7e901m6hqrl0/960x540_1927200_1_f.m
 #EXTINF:-1, Runtime Crimen
 https://stream.ads.ottera.tv/cl/230702cigeqr43patd43lpsog0/640x360_1126400_3_f.m3u8?i=475_3533
 #EXTINF:-1, Runtime Terror
-https://stream.ads.ottera.tv/cl/230702ciges1ggv6tiqi0orn6g/854x480_1355200_2_f.m3u8?i=475_3529
+https://stream.ads.ottera.tv/cl/230702ciges1ggv6tiqi0orn6g/854x480_1355200_2_f.m3u8?i=475_3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
